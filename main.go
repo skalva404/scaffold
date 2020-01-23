@@ -6,7 +6,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/catchplay/scaffold/scaffold"
+	"github.com/skalva404/scaffold/scaffold"
 	"github.com/urfave/cli"
 )
 

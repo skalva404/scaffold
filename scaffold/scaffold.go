@@ -12,7 +12,7 @@ import (
 )
 
 const (
-	GoScaffoldPath = "src/github.com/catchplay/scaffold"
+	GoScaffoldPath = "src/github.com/skalva404/scaffold"
 )
 
 func init() {

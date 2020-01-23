@@ -2,8 +2,8 @@
 
 [![Build Status](https://travis-ci.org/catchplay/scaffold.svg)](https://travis-ci.org/catchplay/scaffold)
 [![codecov](https://codecov.io/gh/catchplay/scaffold/branch/master/graph/badge.svg)](https://codecov.io/gh/catchplay/scaffold)
-[![Go Report Card](https://goreportcard.com/badge/github.com/catchplay/scaffold)](https://goreportcard.com/report/github.com/catchplay/scaffold)
-[![GoDoc](https://godoc.org/github.com/catchplay/scaffold?status.svg)](https://godoc.org/github.com/catchplay/scaffold)
+[![Go Report Card](https://goreportcard.com/badge/github.com/skalva404/scaffold)](https://goreportcard.com/report/github.com/skalva404/scaffold)
+[![GoDoc](https://godoc.org/github.com/skalva404/scaffold?status.svg)](https://godoc.org/github.com/skalva404/scaffold)
 
 Scaffold generates starter Go project layout. Let you can focus on  buesiness logic implemeted. 
 
@@ -36,7 +36,7 @@ The following is Go project layout scaffold generated:
 
  Download scaffold by using:
 ```sh
-$ go get -u github.com/catchplay/scaffold
+$ go get -u github.com/skalva404/scaffold
 ```
 
 ## Create a new project
